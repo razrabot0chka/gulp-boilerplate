@@ -40,7 +40,7 @@ function typescript() {
 	return browserify({
 		basedir: '.',
 		debug: true,
-		entries: ['./src/assets/js/app.ts'],
+		entries: ['./src/assets/js/App.ts'],
 		cache: {},
 		packageCache: {},
 	})
