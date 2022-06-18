@@ -2,7 +2,7 @@
   "name": "gulp-boilerplate",
   "version": "1.0.0",
   "description": "",
-  "main": "src/assets/js/app.ts",
+  "main": "src/assets/js/App.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
